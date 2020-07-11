@@ -6,12 +6,9 @@ layout: default
 
 [back](./)
 
-<ul>
 {% for presentation in site.data.presentations %}
-
-<li> {{ presentation.name }} <a href="{{ presentation.file }}"> [pdf] </a> </li>
-
+<h2> {{ presentation.venue }} <a href="{{ presentation.link }}">[url]</a> </h2>
+{{ presentation.name }} <a href="{{ presentation.file }}">[pdf]</a>
 {% endfor %}
-</ul>
 
 [back](./)

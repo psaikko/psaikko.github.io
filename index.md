@@ -10,6 +10,6 @@ See my
 
 - [Theses](./theses.html)
 
-- [Presentations](./theses.html)
+- [Presentations](./presentations.html)
 
 - [LinkedIn](https://linkedin.com/in/psaikko)

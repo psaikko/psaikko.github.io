@@ -1,10 +1,14 @@
 [
     {
-		"name": "PhD thesis defense <i>lectio praecursoria</i> slides.",
-        "file": "/assets/files/lectio.pdf"
+		"name": " <i>Lectio praecursoria</i> slides",
+        "file": "/assets/files/lectio.pdf",
+        "venue": "PhD thesis defense",
+        "link": "https://www.helsinki.fi/en/news/data-science-news/paul-saikko-defends-his-phd-thesis-on-implicit-hitting-set-algorithms-for-constraint-optimization"
     },
     {
-        "name": "MSc thesis award presentation slides.",
-        "file": "/assets/files/msc.slides.pdf"
+        "name": "MSc thesis award presentation slides",
+        "file": "/assets/files/msc.slides.pdf",
+        "venue": "Annual Symposium of Computer Science in Finland",
+        "link": "https://events.aalto.fi/tkt-paivat-2017/en/front-page/"
     }
 ]
