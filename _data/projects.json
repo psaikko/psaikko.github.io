@@ -1,0 +1,208 @@
+{
+"categories": [
+    {
+        "name": "Machine learning",
+        "projects": [
+            {
+                "url": "https://github.com/psaikko/colorize",
+                "reponame": "colorize"
+            },
+            {
+                "url": "https://github.com/psaikko/tf-style-transfer",
+                "reponame": "tf-style-transfer"
+            },
+            {
+                "url": "https://github.com/psaikko/rnn-lyrics",
+                "reponame": "rnn-lyrics"
+            },
+            {
+                "url": "https://github.com/psaikko/opi-tuntemaan-sienet",
+                "reponame": "opi-tuntemaan-sienet"
+            },
+            {
+                "url": "https://github.com/psaikko/mnist-neural-networks",
+                "reponame": "mnist-neural-networks"
+            },
+            {
+                "url": "https://github.com/psaikko/explain-mnist",
+                "reponame": "explain-mnist"
+            }
+        ]
+    },{
+        "name": "Graphics",
+        "projects": [
+            {
+                "url": "https://github.com/psaikko/luola-intro",
+                "reponame": "luola-intro"
+            },
+            {
+                "url": "https://github.com/psaikko/raytrace",
+                "reponame": "raytrace"
+            },
+            {
+                "url": "https://github.com/psaikko/cuda-fractal",
+                "reponame": "cuda-fractal"
+            },
+            {
+                "url": "https://github.com/psaikko/raycast",
+                "reponame": "raycast"
+            },
+            {
+                "url": "https://github.com/psaikko/cartoonify",
+                "reponame": "cartoonify"
+            }
+        ]
+    },{
+        "name": "Algorithms",
+        "projects": [
+            {
+                "url": "https://github.com/psaikko/slow-fourier-transform",
+                "reponame": "slow-fourier-transform"
+            },
+            {
+                "url": "https://github.com/psaikko/string-algorithms-project",
+                "reponame": "string-algorithms-project"
+            },
+            {
+                "url": "https://github.com/psaikko/interpreter-project",
+                "reponame": "interpreter-project"
+            },
+            {
+                "url": "https://github.com/psaikko/human-zip",
+                "reponame": "human-zip"
+            }
+        ]
+    },{
+        "name": "Web",
+        "projects": [
+            {
+                "url": "https://github.com/psaikko/rally-leaderboard",
+                "reponame": "rally-leaderboard"
+            },
+            {
+                "url": "https://github.com/psaikko/js-soundgen",
+                "reponame": "js-soundgen"
+            },
+            {
+                "url": "https://github.com/psaikko/js-heightmap",
+                "reponame": "js-heightmap"
+            },
+            {
+                "url": "https://github.com/psaikko/tsoha-k11p4-sinatra",
+                "reponame": "tsoha-k11p4-sinatra"
+            }
+        ]
+    },{
+        "name": "Optimization and SAT",
+        "projects": [
+            {
+                "url": "https://github.com/psaikko/LMHS",
+                "reponame": "LMHS"
+            },
+            {
+                "url": "https://github.com/psaikko/ASP-HS",
+                "reponame": "ASP-HS"
+            },
+            {
+                "url": "https://github.com/psaikko/AbHS",
+                "reponame": "AbHS"
+            },
+            {
+                "url": "https://github.com/psaikko/sudokugen",
+                "reponame": "sudokugen"
+            },
+            {
+                "url": "https://github.com/psaikko/bitparallel-dpll",
+                "reponame": "bitparallel-dpll"
+            },
+            {
+                "url": "https://github.com/psaikko/tinysat",
+                "reponame": "tinysat"
+            }
+        ]
+    },{
+        "name": "Games and simulations",
+        "projects": [
+            {
+                "url": "https://github.com/psaikko/mcts-reversi",
+                "reponame": "mcts-reversi"
+            },
+            {
+                "url": "https://github.com/psaikko/gbe",
+                "reponame": "gbe"
+            },
+            {
+                "url": "https://github.com/psaikko/boids-sim",
+                "reponame": "boids-sim"
+            },
+            {
+                "url": "https://github.com/psaikko/tsuro-tiles",
+                "reponame": "tsuro-tiles"
+            },
+            {
+                "url": "https://github.com/psaikko/rally-decode",
+                "reponame": "rally-decode"
+            },
+            {
+                "url": "https://github.com/psaikko/java-sudoku",
+                "reponame": "java-sudoku"
+            },
+            {
+                "url": "https://github.com/psaikko/java-chess",
+                "reponame": "java-chess"
+            },
+            {
+                "url": "https://github.com/psaikko/HexPuzzle",
+                "reponame": "HexPuzzle"
+            },
+            {
+                "url": "https://github.com/psaikko/asteroids",
+                "reponame": "asteroids"
+            },
+            {
+                "url": "https://github.com/psaikko/cuda-life",
+                "reponame": "cuda-life"
+            }
+        ]
+    },{
+        "name": "Challenges and competitions",
+        "projects": [
+            {
+                "url": "https://github.com/psaikko/AdventOfCode2019",
+                "reponame": "AdventOfCode2019"
+            },
+            {
+                "url": "https://github.com/psaikko/AdventOfCode2018",
+                "reponame": "AdventOfCode2018"
+            },
+            {
+                "url": "https://github.com/psaikko/AdventOfCode2017",
+                "reponame": "AdventOfCode2017"
+            },
+            {
+                "url": "https://github.com/psaikko/reaktor-santa",
+                "reponame": "reaktor-santa"
+            },
+            {
+                "url": "https://github.com/psaikko/orbital",
+                "reponame": "orbital"
+            },
+            {
+                "url": "https://github.com/psaikko/hwo-2014",
+                "reponame": "hwo-2014"
+            }
+        ]
+    },{
+        "name": "Hardware",
+        "projects": [
+            {
+                "url": "https://github.com/psaikko/teensy-dual-joysticks",
+                "reponame": "teensy-dual-joysticks"
+            },
+            {
+                "url": "https://github.com/psaikko/led-matrix",
+                "reponame": "led-matrix"
+            }
+        ]
+    }
+]}

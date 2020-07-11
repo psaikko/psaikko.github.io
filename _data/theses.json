@@ -1,0 +1,23 @@
+[
+        {
+            "type": "PhD thesis",
+            "title": "Implicit Hitting Set Algorithms for Constraint Optimization",
+            "description": "",
+            "year": "2019",
+            "file": "/assets/files/vaitos.pdf"
+        },
+        {
+            "type": "MSc thesis",
+            "title": "Re-implementing and Extending a Hybrid SAT-IP Approach to Maximum Satisfiability",
+            "description": "Received <a href=\"http://tkts.fi/gradupalkintojen-saajat\">thesis of the year award</a> from the Finnish Society for Computer Science",
+            "year": "2015",
+            "file": "/assets/files/gradu.pdf"
+        },
+        {
+            "type": "BSc thesis",
+            "title": "Algorithmic Mechanism Design",
+            "description": "",
+            "year": "2013",
+            "file": "/assets/files/kandi.pdf"
+        }
+]
