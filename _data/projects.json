@@ -5,27 +5,37 @@
         "projects": [
             {
                 "url": "https://github.com/psaikko/colorize",
-                "reponame": "colorize"
+                "reponame": "colorize",
+                "image": "/assets/img/colorize.png",
+                "description": "Implementing automatic colorization of grayscale images with deep convolutional networks using tensorflow."
             },
             {
                 "url": "https://github.com/psaikko/tf-style-transfer",
-                "reponame": "tf-style-transfer"
+                "reponame": "tf-style-transfer",
+                "image": "/assets/img/tf-style-transfer.png",
+                "description": "A repository for re-implementing and replicating the results of neural style transfer papers."
             },
             {
                 "url": "https://github.com/psaikko/rnn-lyrics",
-                "reponame": "rnn-lyrics"
+                "reponame": "rnn-lyrics",
+                "description": "Generating song lyrics using recurrent neural networks. Includes a web demo created with tensorflow.js"
             },
             {
                 "url": "https://github.com/psaikko/opi-tuntemaan-sienet",
-                "reponame": "opi-tuntemaan-sienet"
+                "reponame": "opi-tuntemaan-sienet",
+                "image": "/assets/img/opi-tuntemaan-sienet.png",
+                "description": "Using transfer learning to create a classifier for forest mushrooms."
             },
             {
                 "url": "https://github.com/psaikko/mnist-neural-networks",
-                "reponame": "mnist-neural-networks"
+                "reponame": "mnist-neural-networks",
+                "description": "From-scratch implementation of training a multilayer neural network using backpropagation."
             },
             {
                 "url": "https://github.com/psaikko/explain-mnist",
-                "reponame": "explain-mnist"
+                "reponame": "explain-mnist",
+                "image": "/assets/img/explain-mnist.png",
+                "description": "Exact computation of adversarial examples and minimal explanations using a MIP/MIQP solver for neural network predictions on the MNIST dataset."
             }
         ]
     },{
@@ -33,23 +43,33 @@
         "projects": [
             {
                 "url": "https://github.com/psaikko/luola-intro",
-                "reponame": "luola-intro"
+                "reponame": "luola-intro",
+                "image": "/assets/img/luola-intro.png",
+                "description": "1k js intro for Assembly 2018. Voxel terrain rendering, heightmap generation, and fog effect in 1 kb of javascript."
             },
             {
                 "url": "https://github.com/psaikko/raytrace",
-                "reponame": "raytrace"
+                "reponame": "raytrace",
+                "image": "https://raw.githubusercontent.com/psaikko/raytrace/master/img/screenshot.png",
+                "description": "Minimal CPU-based multithreaded raytracer in C++. Some features include soft shadows, different material types, and real-time computation at small resolutions."
             },
             {
                 "url": "https://github.com/psaikko/cuda-fractal",
-                "reponame": "cuda-fractal"
+                "reponame": "cuda-fractal",
+                "image": "https://github.com/psaikko/cuda-fractal/raw/master/img/fractal.png",
+                "description": "Mandelbrot set fractal visualization and exploration using Nvidia CUDA for computation and qt5 for GUI."
             },
             {
                 "url": "https://github.com/psaikko/raycast",
-                "reponame": "raycast"
+                "reponame": "raycast",
+                "image": "https://raw.githubusercontent.com/psaikko/raycast/master/screenshot.png",
+                "description": "A small raycasting graphics engine, as seen in e.g. Wolfenstein 3D and the Windows maze screensaver. Written in vanilla javascript."
             },
             {
                 "url": "https://github.com/psaikko/cartoonify",
-                "reponame": "cartoonify"
+                "reponame": "cartoonify",
+                "image": "https://raw.githubusercontent.com/psaikko/cartoonify/master/img/out.jpg",
+                "description": "Forking a cartoon camera project to anonymize a webcam stream using OpenCV."
             }
         ]
     },{
@@ -88,8 +108,8 @@
                 "reponame": "js-heightmap"
             },
             {
-                "url": "https://github.com/psaikko/tsoha-k11p4-sinatra",
-                "reponame": "tsoha-k11p4-sinatra"
+                "url": "https://github.com/psaikko/psaikko.github.io",
+                "reponame": "psaikko.github.io"
             }
         ]
     },{

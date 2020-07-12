@@ -2,6 +2,12 @@
 layout: default
 ---
 
+I'm a computer science PhD who likes tinkering with machine learning, algorithms, games, and computer graphics.
+
+Formerly at the <a href="https://www.helsinki.fi/en/researchgroups/constraint-reasoning-and-optimization">Constraint Reasoning and Optimization</a> group at University of Helsinki.
+
+This site is a collection of my personal projects and other work.
+
 See my
 
 - [Projects](./projects.html)
