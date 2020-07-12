@@ -77,19 +77,23 @@
         "projects": [
             {
                 "url": "https://github.com/psaikko/slow-fourier-transform",
+                "image": "/assets/img/slow-fourier-transform.png",
                 "reponame": "slow-fourier-transform"
             },
             {
                 "url": "https://github.com/psaikko/string-algorithms-project",
-                "reponame": "string-algorithms-project"
+                "reponame": "string-algorithms-project",
+                "description": "Java implementations of multiple-exact-string-matching algorithms. Comparisons of Aho-Corasick, Karp-Rabin, and multipattern Shift-And."
             },
             {
                 "url": "https://github.com/psaikko/interpreter-project",
-                "reponame": "interpreter-project"
+                "reponame": "interpreter-project",
+                "description": "Interpreter for a toy programming language in C#."
             },
             {
                 "url": "https://github.com/psaikko/human-zip",
-                "reponame": "human-zip"
+                "reponame": "human-zip",
+                "description": "What if we could compress text while retaining readability by recursively abbreviating common phrases?"
             }
         ]
     },{
@@ -97,19 +101,25 @@
         "projects": [
             {
                 "url": "https://github.com/psaikko/rally-leaderboard",
-                "reponame": "rally-leaderboard"
+                "reponame": "rally-leaderboard",
+                "image": "/assets/img/rally-leaderboard.png",
+                "description": "A highscores leaderboard web app for old PC rally games. With serverless.js backend on AWS lambda and github.io static frontend."
             },
             {
                 "url": "https://github.com/psaikko/js-soundgen",
-                "reponame": "js-soundgen"
+                "reponame": "js-soundgen",
+                "description": "Code for procedurally creating a .wav file in a browser."
             },
             {
                 "url": "https://github.com/psaikko/js-heightmap",
-                "reponame": "js-heightmap"
+                "reponame": "js-heightmap",
+                "image": "/assets/img/js-heightmap.png",
+                "description": "Creating tileable heightmap textures in javascript using midpoint displacement / diamond-square algorithm."
             },
             {
                 "url": "https://github.com/psaikko/psaikko.github.io",
-                "reponame": "psaikko.github.io"
+                "reponame": "psaikko.github.io",
+                "description": "You're looking at it. A Github pages site using Jekyll."
             }
         ]
     },{
@@ -145,43 +155,58 @@
         "projects": [
             {
                 "url": "https://github.com/psaikko/mcts-reversi",
-                "reponame": "mcts-reversi"
+                "reponame": "mcts-reversi",
+                "description": "Implementation of Monte-Carlo tree search for Reversi (Othello)."
             },
             {
                 "url": "https://github.com/psaikko/gbe",
-                "reponame": "gbe"
+                "reponame": "gbe",
+                "image": "https://raw.githubusercontent.com/psaikko/gbe/master/img/Game_screenshot.png",
+                "description": "A playable emulator for the Nintendo Game Boy in C++. Emulates the Sharp LR35902 instruction set, tile-based graphics, and 4-channel audio. Graphics rendered using OpenGL (glfw) and sound output created with OpenAL (alut). Includes savestates and a python API for interacting with the emulator."
             },
             {
                 "url": "https://github.com/psaikko/boids-sim",
-                "reponame": "boids-sim"
+                "reponame": "boids-sim",
+                "image": "/assets/img/boids-sim.png",
+                "description": "Flocking behavior simulation using a boids model. Shows emergent behavior from simple rules, with a javascript sandbox for experimentation."
             },
             {
                 "url": "https://github.com/psaikko/tsuro-tiles",
-                "reponame": "tsuro-tiles"
+                "reponame": "tsuro-tiles",
+                "image": "/assets/img/tsuro-tiles.png",
+                "description": "Computing and drawing all possible tiles for the board game Tsuro."
             },
             {
                 "url": "https://github.com/psaikko/rally-decode",
-                "reponame": "rally-decode"
+                "reponame": "rally-decode",
+                "description": "Reverse engineering old PC rally game save files."
             },
             {
                 "url": "https://github.com/psaikko/java-sudoku",
-                "reponame": "java-sudoku"
+                "reponame": "java-sudoku",
+                "description": "A visual sudoku solver, which gives step-by-step reasoning for each filled square."
             },
             {
                 "url": "https://github.com/psaikko/java-chess",
-                "reponame": "java-chess"
+                "reponame": "java-chess",
+                "description": "A chess game with minimax AI and a GUI."
             },
             {
                 "url": "https://github.com/psaikko/HexPuzzle",
-                "reponame": "HexPuzzle"
+                "reponame": "HexPuzzle",
+                "image": "/assets/img/hexpuzzle.png",
+                "description": "Solving a puzzle with hexagonal tiles. C++ with a Qt gui."
             },
             {
                 "url": "https://github.com/psaikko/asteroids",
-                "reponame": "asteroids"
+                "reponame": "asteroids",
+                "image": "/assets/img/asteroids.png",
+                "description": "Retro-inspired asteroids game in javascript."
             },
             {
                 "url": "https://github.com/psaikko/cuda-life",
-                "reponame": "cuda-life"
+                "reponame": "cuda-life",
+                "description": "Conway's Game of Life computed on the GPU with CUDA."
             }
         ]
     },{
@@ -189,27 +214,30 @@
         "projects": [
             {
                 "url": "https://github.com/psaikko/AdventOfCode2019",
-                "reponame": "AdventOfCode2019"
+                "reponame": "AdventOfCode2019",
+                "description": "Using the 2019 Advent of Code puzzles to learn Julia."
             },
             {
                 "url": "https://github.com/psaikko/AdventOfCode2018",
-                "reponame": "AdventOfCode2018"
+                "reponame": "AdventOfCode2018",
+                "description": "Brushing up on Ruby with the 2018 Advent of Code puzzles."
             },
             {
                 "url": "https://github.com/psaikko/AdventOfCode2017",
-                "reponame": "AdventOfCode2017"
+                "reponame": "AdventOfCode2017",
+                "description": "Python solutions to Advent of Code 2017 puzzles."
             },
             {
                 "url": "https://github.com/psaikko/reaktor-santa",
-                "reponame": "reaktor-santa"
+                "reponame": "reaktor-santa",
+                "image": "https://github.com/psaikko/reaktor-santa/raw/master/globe.gif",
+                "description": "Scripts for the Reaktor traveling santa competition. Solving a multiple trip, weight-constrained traveling salesperson problem with local search and simulated annealing."
             },
             {
                 "url": "https://github.com/psaikko/orbital",
-                "reponame": "orbital"
-            },
-            {
-                "url": "https://github.com/psaikko/hwo-2014",
-                "reponame": "hwo-2014"
+                "reponame": "orbital",
+                "image": "https://raw.githubusercontent.com/psaikko/orbital/master/screenshot.png",
+                "description": "Solving a shortest-path problem in 3D space given (latitude, longitude, altitude) values."
             }
         ]
     },{
@@ -217,11 +245,15 @@
         "projects": [
             {
                 "url": "https://github.com/psaikko/teensy-dual-joysticks",
-                "reponame": "teensy-dual-joysticks"
+                "image": "/assets/img/teensy-dual-joysticks.jpg",
+                "reponame": "teensy-dual-joysticks",
+                "description": "Arduino project using a Teensy board to connect a pair of gameport interface joysticks to a modern PC using USB. Modifies the base USB gamepad code to register as two devices."
             },
             {
                 "url": "https://github.com/psaikko/led-matrix",
-                "reponame": "led-matrix"
+                "reponame": "led-matrix",
+                "image": "https://github.com/psaikko/led-matrix/raw/master/scroll.gif",
+                "description": "A handmade 7x16 LED matrix display. Row and column addressing using shift registers. Controlled by Raspberry PI GPIO pins."
             }
         ]
     }
