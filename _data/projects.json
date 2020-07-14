@@ -24,7 +24,7 @@
                 "url": "https://github.com/psaikko/opi-tuntemaan-sienet",
                 "reponame": "opi-tuntemaan-sienet",
                 "image": "/assets/img/opi-tuntemaan-sienet.png",
-                "description": "Using transfer learning to create a classifier for forest mushrooms."
+                "description": "Using transfer learning to create a classifier for forest mushrooms. Gathering a dataset by (responsibly) scraping the web."
             },
             {
                 "url": "https://github.com/psaikko/mnist-neural-networks",
@@ -57,7 +57,7 @@
                 "url": "https://github.com/psaikko/cuda-fractal",
                 "reponame": "cuda-fractal",
                 "image": "https://github.com/psaikko/cuda-fractal/raw/master/img/fractal.png",
-                "description": "Mandelbrot set fractal visualization and exploration using Nvidia CUDA for computation and qt5 for GUI."
+                "description": "Mandelbrot set fractal visualization and exploration using Nvidia CUDA for computation and Qt5 for GUI."
             },
             {
                 "url": "https://github.com/psaikko/raycast",
@@ -78,7 +78,8 @@
             {
                 "url": "https://github.com/psaikko/slow-fourier-transform",
                 "image": "/assets/img/slow-fourier-transform.png",
-                "reponame": "slow-fourier-transform"
+                "reponame": "slow-fourier-transform",
+                "description": "Implementing a Fourier transform visualization as seen on 3blue1brown. Plotting in cartesian and polar coordinates with matplotlib."
             },
             {
                 "url": "https://github.com/psaikko/string-algorithms-project",
@@ -127,27 +128,33 @@
         "projects": [
             {
                 "url": "https://github.com/psaikko/LMHS",
-                "reponame": "LMHS"
+                "reponame": "LMHS",
+                "description": "A weighted partial MaxSAT solver. Ranked first in the <a href=\"http://www.maxsat.udl.cat/15/results/index.html\"> 2015 MaxSAT Evaluation</a>."
             },
             {
                 "url": "https://github.com/psaikko/ASP-HS",
-                "reponame": "ASP-HS"
+                "reponame": "ASP-HS",
+                "description": "Answer set optimization solver of KR'18 paper."
             },
             {
                 "url": "https://github.com/psaikko/AbHS",
-                "reponame": "AbHS"
+                "reponame": "AbHS",
+                "description": "Propositional abduction solver of KR'16 paper. Computes optimal abductive explanations with an implicit hitting set algorithm."
             },
             {
                 "url": "https://github.com/psaikko/sudokugen",
-                "reponame": "sudokugen"
+                "reponame": "sudokugen",
+                "description": "Creating sudoku puzzles with provably minimal sets of clues with unique solutions. Uses SAT and SMT solvers via pySAT and pySMT libraries."
             },
             {
                 "url": "https://github.com/psaikko/bitparallel-dpll",
-                "reponame": "bitparallel-dpll"
+                "reponame": "bitparallel-dpll",
+                "description": "Experimenting with AVX2 instructions to build a bitparallel SAT solver."
             },
             {
                 "url": "https://github.com/psaikko/tinysat",
-                "reponame": "tinysat"
+                "reponame": "tinysat",
+                "description": "Minimalistic CDCL SAT solver in javascript. Runs in browser or with node. Live at <a href=\"https://psaikko.github.io/tinysat\">github</a>."
             }
         ]
     },{
@@ -156,7 +163,8 @@
             {
                 "url": "https://github.com/psaikko/mcts-reversi",
                 "reponame": "mcts-reversi",
-                "description": "Implementation of Monte-Carlo tree search for Reversi (Othello)."
+                "image": "/assets/img/mcts-reversi.png",
+                "description": "Algorithms for playing Reversi (Othello). Minimax, UCB1, and UCT (Monte-Carlo tree search) implemented in C++. Includes a tournament setup for evaluating algorithms against each other."
             },
             {
                 "url": "https://github.com/psaikko/gbe",
@@ -184,12 +192,14 @@
             {
                 "url": "https://github.com/psaikko/java-sudoku",
                 "reponame": "java-sudoku",
-                "description": "A visual sudoku solver, which gives step-by-step reasoning for each filled square."
+                "image": "/assets/img/java-sudoku.png",
+                "description": "A visual sudoku solver, which gives step-by-step reasoning for each filled square. BSc data structures project coursework."
             },
             {
                 "url": "https://github.com/psaikko/java-chess",
                 "reponame": "java-chess",
-                "description": "A chess game with minimax AI and a GUI."
+                "image": "/assets/img/java-chess.png",
+                "description": "A chess game with minimax AI and a GUI. First-year BSc programming project coursework."
             },
             {
                 "url": "https://github.com/psaikko/HexPuzzle",
