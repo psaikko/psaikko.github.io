@@ -9,3 +9,4 @@ Then run
 ```
 bundle exec jekyll serve
 ```
+to serve on localhost:4000

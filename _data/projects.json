@@ -13,7 +13,7 @@
                 "url": "https://github.com/psaikko/tf-style-transfer",
                 "reponame": "tf-style-transfer",
                 "image": "/assets/img/tf-style-transfer.png",
-                "description": "A repository for re-implementing and replicating the results of neural style transfer papers."
+                "description": "A repository for re-implementing and replicating the results of neural style transfer papers. Includes both style transfer by optimizing style loss and by training a feedforward network for the task."
             },
             {
                 "url": "https://github.com/psaikko/rnn-lyrics",
@@ -45,7 +45,7 @@
                 "url": "https://github.com/psaikko/luola-intro",
                 "reponame": "luola-intro",
                 "image": "/assets/img/luola-intro.png",
-                "description": "1k js intro for Assembly 2018. Voxel terrain rendering, heightmap generation, and fog effect in 1 kb of javascript."
+                "description": "1k js intro for Assembly 2018. Voxel terrain rendering, heightmap generation, fog effect, and ambient sound generation in under 1 kb of javascript."
             },
             {
                 "url": "https://github.com/psaikko/raytrace",
@@ -69,7 +69,7 @@
                 "url": "https://github.com/psaikko/cartoonify",
                 "reponame": "cartoonify",
                 "image": "https://raw.githubusercontent.com/psaikko/cartoonify/master/img/out.jpg",
-                "description": "Forking a cartoon camera project to anonymize a webcam stream using OpenCV."
+                "description": "Forking a cartoon camera project to anonymize a webcam stream in near-realtime using OpenCV."
             }
         ]
     },{
@@ -89,7 +89,7 @@
             {
                 "url": "https://github.com/psaikko/interpreter-project",
                 "reponame": "interpreter-project",
-                "description": "Interpreter for a toy programming language in C#."
+                "description": "Interpreter for a toy programming language in C#. Includes syntax-tree generation and regex engine for parsing."
             },
             {
                 "url": "https://github.com/psaikko/human-zip",
@@ -100,6 +100,12 @@
     },{
         "name": "Web",
         "projects": [
+            {
+                "url": "https://github.com/psaikko/rv-stats",
+                "reponame": "rv-stats",
+                "image": "https://raw.githubusercontent.com/psaikko/rv-stats/master/img/activity-heatmap.png",
+                "description": "A visualization dashboard for snack purchase data, using plotly with python dash backend and pandas for data wrangling."
+            },
             {
                 "url": "https://github.com/psaikko/rally-leaderboard",
                 "reponame": "rally-leaderboard",
